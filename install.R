@@ -14,7 +14,7 @@
 ###  Install packages 
 ###########################################################################
 ### Packages from CRAN
-install.packages("tidyverse")
+#install.packages("tidyverse")
 install.packages("devtools")
 
 ### Packages from GitHub
